@@ -1,0 +1,28 @@
+.web-push-notifications{
+	width: 605px;
+    text-align: center;
+    z-index: 999;
+    background: #ef7c77;
+    padding: 10px;
+    border: 1px solid #E5554E;
+}
+.web-push-notifications a{
+    color: #fff;
+}
+.web-push-notifications span{
+	width: 20px;
+    height: 20px;
+    font-size: 15px;
+    line-height: 20px;
+    float: right;
+    color: #fff;
+    cursor: pointer;
+}
+.web-push-notifications-overlay{
+	position: fixed;
+    background: rgba(0,0,0,0.4);
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}

@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Web Push Notification\n"
+"POT-Creation-Date: 2016-06-24 22:51+0300\n"
+"PO-Revision-Date: 2016-06-24 22:51+0300\n"
+"Last-Translator: \n"
+"Language-Team: bassem.rabia@gmail.com\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wpn/wpn.php:82
+msgid "Notification"
+msgstr ""
+
+#: wpn/wpn.php:104
+msgid "Send Notification"
+msgstr "Notify Users"
+
+#: wpn/wpn.php:137
+msgid "User Guide"
+msgstr "User Guide"
+
+#: wpn/wpn.php:140
+msgid "Install"
+msgstr ""
+
+#: wpn/wpn.php:141
+msgid "Run"
+msgstr ""
+
+#: wpn/wpn.php:142
+msgid "Enjoy"
+msgstr ""
+
+#: wpn/wpn.php:143
+msgid "Ask for Support if you need"
+msgstr ""
+
+#: wpn/wpn.php:165 wpn/wpn.php:179
+msgid "has been successfully updated"
+msgstr ""
+
+#: wpn/wpn.php:189
+msgid "Api"
+msgstr ""
+
+#: wpn/wpn.php:193
+msgid "Please insert your Public Key"
+msgstr ""
+
+#: wpn/wpn.php:194
+msgid "Public key"
+msgstr ""
+
+#: wpn/wpn.php:196
+msgid "Please insert your Private Key"
+msgstr ""
+
+#: wpn/wpn.php:197
+msgid "Private key"
+msgstr ""
+
+#: wpn/wpn.php:199
+msgid "Please insert your Testing Key"
+msgstr ""
+
+#: wpn/wpn.php:200
+msgid "Testing key"
+msgstr ""
+
+#: wpn/wpn.php:215 wpn/wpn.php:281
+msgid "Save"
+msgstr ""
+
+#: wpn/wpn.php:231
+msgid "Register"
+msgstr "Create an account | Recover your authorization credentials"
+
+#: wpn/wpn.php:249 wpn/wpn.php:296
+msgid "Test"
+msgstr "Demo"
+
+#: wpn/wpn.php:263
+msgid "Waiting"
+msgstr "Waiting Posts"
+
+#: wpn/wpn.php:272
+msgid "Settings"
+msgstr "Settings"
+
+#: wpn/wpn.php:276
+msgid "Please insert your Call to action Message"
+msgstr ""
+
+#: wpn/wpn.php:277
+msgid "Call to action Message"
+msgstr ""
+
+#: wpn/wpn.php:278
+msgid "Please insert call for action every X days"
+msgstr ""
+
+#: wpn/wpn.php:279
+msgid "Call for action every X days"
+msgstr ""
+
+#: wpn/wpn.php:297
+msgid "Testing instructions"
+msgstr "Please remove  \"webPushApi-closed\" cookie before using test link !"

@@ -1,0 +1,167 @@
+#WebPushNotifications{
+	background: url(../images/32.png) no-repeat scroll left center transparent;
+	display: inline-block;
+    float: left;
+    height: 32px;
+    margin-right: 10px;
+    margin-top: 7px;
+    width: 32px;
+}
+#WebPushNotifications_container{
+}
+#WebPushNotifications_container .accordion-header{
+	display: block;
+    padding: 10px;
+    font-size: 14px;
+    text-align: left;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    border-radius: 3px 3px 0 0;
+	margin-top: 5px;
+}
+.WebPushNotifications_wrap .WebPushNotifications_container{
+	margin-top: 5px;
+}
+.WebPushNotifications_wrap .postbox{
+    border-radius: 3px 3px 0 0;
+}
+.WebPushNotifications_wrap h3{
+    border: 0;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+#WebPushNotifications_container .accordion-header i{
+	float: right;
+}
+#WebPushNotifications_container .accordion-notification-success{
+	background: #4AD5C0;
+    border: 1px solid #13B7A8;
+	border-radius: 3px;
+	color: #fff;
+	line-height: 20px;
+}
+#WebPushNotifications_container .accordion-notification{
+	border-radius: 3px;
+	line-height: 20px;
+}
+#WebPushNotifications_container .accordion-notification-success{
+	background: #4AD5C0;
+    border: 1px solid #13B7A8;
+	color: #fff;
+	clear: both;
+}
+#WebPushNotifications_container .accordion-notification-error{
+	background: #FF6F58;
+    border: 1px solid #E84D3C;
+	color: #fff;
+}
+#WebPushNotifications_container .WebPushNotifications_service_content{
+	margin-bottom: 20px;
+	background: #f8fafa;
+	clear: both;
+}
+#WebPushNotifications_container .WebPushNotifications_service_content_active{
+    padding: 11px 15px;
+    border: 1px solid #ddd;
+    border-top: 0px solid #ffba00;
+    border-radius: 0  0 3px 3px;
+	display: block;
+}
+#WebPushNotifications_container .WebPushNotifications_input{
+    border: 1px solid #ccc;
+    box-shadow: none;
+    width: 100%;
+    display: block;
+}
+#WebPushNotifications_container .WebPushNotifications_input_25{
+    width: 25%;
+    display: inline-block;
+}
+
+
+
+#WebPushNotifications_container .WebPushNotifications_textarea{
+    border: 1px solid #ccc;
+    box-shadow: none;
+    width: 100%;
+    display: block;
+    min-height: 250px;
+}
+#WebPushNotifications_container .WebPushNotifications_Opt{
+	border: 1px dashed #ddd;
+    padding: 3px;
+    margin-bottom: 10px;
+}
+#WebPushNotifications_container .WebPushNotifications_radio{
+    border: 1px solid #ccc;
+    box-shadow: none;
+    display: inline-block;
+}
+#WebPushNotifications_container .WebPushNotifications_submit{
+	box-shadow: none;
+    cursor: pointer;
+    display: inline-block;
+    background: #5CC85C;
+    border: 0;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+    min-width: 80px;
+}
+#WebPushNotifications_container .WebPushNotifications_test{
+	box-shadow: none;
+    cursor: pointer;
+    display: inline-block;
+    background: #239FDB;
+    border: 0;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+    min-width: 80px;
+    float: right;
+    margin-bottom: 10px;
+}
+#WebPushNotifications_container .WebPushNotifications_waiting{
+	box-shadow: none;
+    cursor: pointer;
+    display: inline-block;
+    background: #65C3D2;
+    border: 0;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+    min-width: 80px;
+    float: right;
+    margin-bottom: 10px;
+}
+#WebPushNotifications_container .WebPushNotifications_register{
+	text-decoration: none;
+    text-align: right;
+    font-weight: bold;
+    float: right;
+}
+#WebPushNotifications_container .WebPushNotifications_get{
+    background: #55BCF5;
+	box-shadow: none;
+    cursor: pointer;
+    display: inline-block;
+    border: 0;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+    min-width: 80px;
+}
+#WebPushNotifications_container .description{
+	font-size: 13px;
+    font-style: italic;
+	margin: 2px 0 5px;
+    color: #666;
+    width: 75%;
+}
+#web-push-notifications .notification-response{
+	clear: both;
+}
+.notification-response-notice{
+	display:none;
+}
